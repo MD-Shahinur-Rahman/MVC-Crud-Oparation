@@ -1,0 +1,56 @@
+﻿@model IEnumerable<StudentManagement.Models.ViewModel.StudentViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="text-center mb-5">List of Students</h2>
+                <a class="btn btn-primary" asp-controller="Student" asp-action="Create">New Student</a>
+            </div>
+
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>StudentId</th>
+                                <th>StudentName</th>
+                                <th>Email</th>
+                                <th>Mobile</th>
+                                <th>DateOfBirth</th>
+                                <th>CourseName</th>
+                                <th>Image</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var student in Model)
+                            {
+                                <tr>
+                                    <td>@student.StudentId</td>
+                                    <td>@student.StudentName</td>
+                                    <td>@student.Email</td>
+                                    <td>@student.Mobile</td>
+                                    <td>@student.DateOfBirth.ToShortDateString()</td>
+                                    <td>@student.CourseName</td>
+                                    <td>
+                                        <img src="@Url.Content("~/Images/" + student.Image)" alt="Student Image" width="100" />
+                                    </td>
+                                    <td>
+                                        <a asp-action="Edit" asp-route-id="@student.StudentId">Edit</a> |
+                                        <a asp-action="Details" asp-route-id="@student.StudentId">Details</a> |
+                                        <a asp-action="Delete" asp-route-id="@student.StudentId">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

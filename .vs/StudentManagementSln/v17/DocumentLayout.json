@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\models\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|d:\\isdb_course\\asp.net\\crudpracticewithmohiuddin\\studentmanagementsln\\studentmanagement\\migrations\\20240813054521_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAFF8FA-13BB-445E-8D22-37E75E01685C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\migrations\\20240813054521_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Course.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\Course.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:15:26.594Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACgAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T06:10:54.688Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T20:01:55.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:29:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\ViewModel\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\ViewModel\\StudentViewModel.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\ViewModel\\StudentViewModel.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\ViewModel\\StudentViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:21:48.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAFAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T14:54:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:30:28.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:30:25.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:16:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:30:40.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T06:44:17.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:29:34.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:37:11.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240813054521_init.cs",
+              "DocumentMoniker": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Migrations\\20240813054521_init.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20240813054521_init.cs",
+              "ToolTip": "D:\\IsDB_Course\\ASP.NET\\CrudPracticeWithMohiuddin\\StudentManagementSln\\StudentManagement\\Migrations\\20240813054521_init.cs",
+              "RelativeToolTip": "StudentManagement\\Migrations\\20240813054521_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:45:22.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
