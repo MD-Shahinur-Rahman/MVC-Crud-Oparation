@@ -11,3 +11,10 @@ Technologies Used ASP.NET Core MVC .Net : For creating a scalable and maintainab
 
 ### System Overview in Images
 Below are some screenshots of the system:
+
+# Index 
+![Screenshot 2024-09-07 020925](https://github.com/user-attachments/assets/11d3d69a-05b6-447e-ae77-d108344c4507)
+# Create
+![Screenshot 2024-09-07 020952](https://github.com/user-attachments/assets/1f8200bb-daa5-478e-b796-9d05734c537e)
+# update
+![Screenshot 2024-09-07 022414](https://github.com/user-attachments/assets/e5eac47c-98ae-488e-9a53-edfbaa2a9427)
